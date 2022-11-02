@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **RUST**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
