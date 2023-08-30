@@ -26,7 +26,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Deep Learning/AI and Operating Systems**
 
-- 💬 Ask me about **AI/ML, Operating Systems & System Programming**
+- 💬 Ask me about **AI/ML, Operating Systems & Full Stack Development**
 
 - 📫 Feel free to reach me out **plancksconstant01@gmail.com**
 <!--Intro end-->
