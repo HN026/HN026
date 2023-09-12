@@ -11,7 +11,7 @@
 
 
 
-![mishmannersgamingroomgif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dece5f124024167.60fb03546918b.gif)
+![huzaifanaseer](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dece5f124024167.60fb03546918b.gif)
 
 
 
@@ -42,7 +42,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HN026&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HN026&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Huzaifa Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HN026&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
