@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **AI/ML, Operating Systems & Full Stack Development**
 
-- 📫 Feel free to reach me out **plancksconstant01@gmail.com**
+- 📫 Feel free to reach me out **huzaifanaseer026@gmail.com**
 <!--Intro end-->
 
 
